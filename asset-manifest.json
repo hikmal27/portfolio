@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.94e5259f.chunk.css",
+    "main.js": "/portfolio/static/js/main.d71b4936.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d71b4936.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.1c332038.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1c332038.js.map",
+    "static/js/2.e8f5a605.chunk.js": "/portfolio/static/js/2.e8f5a605.chunk.js",
+    "static/js/2.e8f5a605.chunk.js.map": "/portfolio/static/js/2.e8f5a605.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.94e5259f.chunk.css.map": "/portfolio/static/css/main.94e5259f.chunk.css.map",
+    "static/js/2.e8f5a605.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e8f5a605.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/Gilroy-Light.cc7ab55d.otf",
+    "static/media/styleHeader.css": "/portfolio/static/media/bg-1.a8bf473f.jpg",
+    "static/media/g1.897f6f6b.jpg": "/portfolio/static/media/g1.897f6f6b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c332038.js",
+    "static/js/2.e8f5a605.chunk.js",
+    "static/css/main.94e5259f.chunk.css",
+    "static/js/main.d71b4936.chunk.js"
+  ]
+}
